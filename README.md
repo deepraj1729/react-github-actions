@@ -1,4 +1,4 @@
-![example workflow](https://github.com/deepraj1729/react-github-actions/actions/workflows/build.yml/badge.svg?branch=build&&event=push)
+![example workflow](https://github.com/deepraj1729/react-github-actions/actions/workflows/build.yml/badge.svg?branch=build&&event=push) ![example workflow](https://github.com/deepraj1729/react-github-actions/actions/workflows/deploy.yml/badge.svg?branch=deploy&&event=push)
 
 
 # Getting Started with Create React App
