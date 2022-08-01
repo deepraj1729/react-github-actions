@@ -1,3 +1,6 @@
+![example workflow](https://github.com/deepraj1729/react-github-actions/actions/workflows/build.yml/badge.svg?branch=build)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
